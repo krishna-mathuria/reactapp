@@ -16,6 +16,7 @@
     "html-react-parser": "^0.10.3",
     "infinite-react-carousel": "^1.2.11",
     "js-cookie": "^2.2.1",
+    "mdbreact": "^4.27.0",
     "prop-types": "^15.7.2",
     "quill-image-drop-module": "^1.0.3",
     "quill-image-resize": "^3.0.9",
